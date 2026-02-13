@@ -8,7 +8,7 @@
         <mxCell id="2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#FFFFFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;overflow=visible;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;" vertex="1" parent="1">
           <mxGeometry x="90" y="300" width="78" height="78" as="geometry"/>
         </mxCell>
-        <mxCell id="3" value="Client" style="text;html=1;align=center;verticalAlign=top;resizable=0;editable=0;strokeColor=none;fillColor=none;fontSize=12;fontColor=#ffffff;whiteSpace=wrap;overflow=visible;points=[];" vertex="1" connectable="0" parent="2">
+        <mxCell id="3" value="Client" style="shape=rectangle;html=1;align=center;verticalAlign=top;resizable=0;editable=0;strokeColor=none;fillColor=none;fillOpacity=0;strokeOpacity=0;fontSize=12;fontColor=#FFFFFF;whiteSpace=wrap;overflow=visible;points=[];" vertex="1" connectable="0" parent="2">
           <mxGeometry x="0.5" y="1" width="78" height="22" relative="1" as="geometry">
             <mxPoint x="-39" y="6" as="offset"/>
           </mxGeometry>
@@ -16,7 +16,7 @@
         <mxCell id="4" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;overflow=visible;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
           <mxGeometry x="300" y="300" width="78" height="78" as="geometry"/>
         </mxCell>
-        <mxCell id="5" value="API Gateway" style="text;html=1;align=center;verticalAlign=top;resizable=0;editable=0;strokeColor=none;fillColor=none;fontSize=12;fontColor=#ffffff;whiteSpace=wrap;overflow=visible;points=[];" vertex="1" connectable="0" parent="4">
+        <mxCell id="5" value="API Gateway" style="shape=rectangle;html=1;align=center;verticalAlign=top;resizable=0;editable=0;strokeColor=none;fillColor=none;fillOpacity=0;strokeOpacity=0;fontSize=12;fontColor=#FFFFFF;whiteSpace=wrap;overflow=visible;points=[];" vertex="1" connectable="0" parent="4">
           <mxGeometry x="0.5" y="1" width="78" height="22" relative="1" as="geometry">
             <mxPoint x="-39" y="6" as="offset"/>
           </mxGeometry>
@@ -24,7 +24,7 @@
         <mxCell id="6" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;overflow=visible;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cognito;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="78" height="78" as="geometry"/>
         </mxCell>
-        <mxCell id="7" value="Cognito" style="text;html=1;align=center;verticalAlign=top;resizable=0;editable=0;strokeColor=none;fillColor=none;fontSize=12;fontColor=#ffffff;whiteSpace=wrap;overflow=visible;points=[];" vertex="1" connectable="0" parent="6">
+        <mxCell id="7" value="Cognito" style="shape=rectangle;html=1;align=center;verticalAlign=top;resizable=0;editable=0;strokeColor=none;fillColor=none;fillOpacity=0;strokeOpacity=0;fontSize=12;fontColor=#FFFFFF;whiteSpace=wrap;overflow=visible;points=[];" vertex="1" connectable="0" parent="6">
           <mxGeometry x="0.5" y="1" width="78" height="22" relative="1" as="geometry">
             <mxPoint x="-39" y="6" as="offset"/>
           </mxGeometry>
@@ -32,7 +32,7 @@
         <mxCell id="8" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#527FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;overflow=visible;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rds;" vertex="1" parent="1">
           <mxGeometry x="530" y="420" width="78" height="78" as="geometry"/>
         </mxCell>
-        <mxCell id="9" value="RDS" style="text;html=1;align=center;verticalAlign=top;resizable=0;editable=0;strokeColor=none;fillColor=none;fontSize=12;fontColor=#ffffff;whiteSpace=wrap;overflow=visible;points=[];" vertex="1" connectable="0" parent="8">
+        <mxCell id="9" value="RDS" style="shape=rectangle;html=1;align=center;verticalAlign=top;resizable=0;editable=0;strokeColor=none;fillColor=none;fillOpacity=0;strokeOpacity=0;fontSize=12;fontColor=#FFFFFF;whiteSpace=wrap;overflow=visible;points=[];" vertex="1" connectable="0" parent="8">
           <mxGeometry x="0.5" y="1" width="78" height="22" relative="1" as="geometry">
             <mxPoint x="-39" y="6" as="offset"/>
           </mxGeometry>
